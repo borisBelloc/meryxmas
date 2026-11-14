@@ -7,4 +7,4 @@
 2019/04 : Xmas website made to test Deployement on Netlify and Zeit : F12 key and mouse right click blocked
 
 url at :
-- https://meryxmas.netlify.com/
+- https://meryxmas.netlify.app/
